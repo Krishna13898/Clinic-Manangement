@@ -1,0 +1,2 @@
+# Clinic-Manangement
+Django project 
